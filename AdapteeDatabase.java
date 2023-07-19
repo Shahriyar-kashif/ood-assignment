@@ -7,6 +7,6 @@ public class AdapteeDatabase {
     }
 
     public String convertToJson() {
-        return "JSON";
+        return "{book:{title}}";
     }
 }
